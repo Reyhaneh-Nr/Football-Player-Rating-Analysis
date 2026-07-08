@@ -121,10 +121,15 @@ Football-Player-Rating-Analysis
 
 ### Role Analysis
 
+#### Role Analysis RolePage
 ![Role](dashboard_img/RoleAnalysis-RolePage.png)
+#### Role Analysis page Midfielders
 ![Role](dashboard_img/RoleAnalysis-MidfielderPage.png)
+#### Role Analysis page Goalkeepers
 ![Role](dashboard_img/RoleAnalysis-GoalkeeperPage.png)
+#### Role Analysis page Defenders
 ![Role](dashboard_img/RoleAnalysis-Defender.png)
+#### Role Analysis page Attackers
 ![Role](dashboard_img/RoleAnalysis-AttackerPage.png)
 
 
